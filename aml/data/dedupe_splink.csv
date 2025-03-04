@@ -1,0 +1,2 @@
+match_weight,match_probability,unique_id_l,unique_id_r,org_name_l,org_name_r,gamma_org_name,address_l,address_r,gamma_address,country_l,country_r,gamma_country,amount_l,amount_r,gamma_amount
+14.79552948666091,0.9999648369489322,223254,223256,The Bank of New York Mellon Corp.,The Bank of New York Mellon Corp.,1,"Canada Square, Canary Wharf, London, United Kingdom","Canada Square, Canary Wharf, London, UK",0,United Kingdom,United Kingdom,1,2500,2500,1
